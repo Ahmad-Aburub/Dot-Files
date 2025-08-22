@@ -1,0 +1,25 @@
+[wofi]
+# Font
+font=FiraCode Nerd Font 12
+
+# Window styling
+window-width=400
+window-padding=12
+window-background=#1e1e2e
+window-border-radius=8
+window-border-width=1
+window-border-color=#575268
+
+# List styling
+list-item-height=36
+list-padding=6
+list-background=#1e1e2e
+list-hover-background=#45475a
+list-hover-foreground=#f5e0dc
+list-selected-background=#a6d189
+list-selected-foreground=#1e1e2e
+
+# Text colors
+foreground=#cdd6f4
+background=#1e1e2e
+

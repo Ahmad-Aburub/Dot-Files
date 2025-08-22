@@ -1,3 +1,8 @@
+-- term colors
+vim.opt.termguicolors = true
+
+-----------------------------------------
+
 require("config.lazy")
 
 -----------------------------------------
@@ -13,7 +18,7 @@ vim.opt.cursorline = true
 
 -- Show Whitespace
 vim.opt.list = true
-vim.opt.listchars = { trail = '∙' }
+vim.opt.listchars = { tab = '   ', trail = '∙' }
 
 -- Preview substitutions
 vim.opt.inccommand = "split"
